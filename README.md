@@ -42,3 +42,7 @@ Para iniciar a aplicação, você pode usar o seguinte comando:
 
 python app.py
 A aplicação estará disponível em http://localhost:5000
+
+# Imagem docker se cria com o comando
+
+sudo docker build -t docker-image-inference .
