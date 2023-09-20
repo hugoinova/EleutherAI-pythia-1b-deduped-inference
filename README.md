@@ -19,7 +19,7 @@ Para executar este projeto localmente, você precisará das seguintes dependênc
 - Transformers
 - torch
 - Googletrans
-  ##Deixei pois vai ser necessário para o finetune
+## Deixei pois vai ser necessário para o finetune
 - python-dotenv
 - requests
 - nltk
