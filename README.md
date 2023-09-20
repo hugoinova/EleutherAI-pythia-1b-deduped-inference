@@ -45,7 +45,8 @@ python app.py
 A aplicação estará disponível em http://localhost:5000
 
 # Imagem docker se cria com o comando
-
+```bash
 sudo docker build -t docker-image-inference .
 sudo docker-compose up
+```
 
