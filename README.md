@@ -6,8 +6,8 @@
 
 O projeto está organizado da seguinte maneira:
 
-- **static**: Diretório para arquivos estáticos JavaScript(css feito com bootstrap)
-- **templates**: Diretório para arquivos de modelos HTML usados pelo Flask para renderizar página de pergunta. Funcionalidade "spinner de carregamento" para indicar visualmente que a ação resposta está em andamento.
+- **static**: Diretório para arquivos estáticos JavaScript. Funcionalidade "spinner de carregamento" para indicar visualmente que a ação resposta está em andamento.
+- **templates**: Diretório para arquivos de modelos HTML usados pelo Flask para renderizar página de pergunta. (css feito com bootstrap)
 - **app.py**: O código-fonte principal da aplicação Flask, servidor.
 - **model.py**:  contém implementações do modelo, funcionalidades como tradução, max_lenght (tamanho da resposta).
 - **requirements-comments.txt**:  Dependências do projeto.
