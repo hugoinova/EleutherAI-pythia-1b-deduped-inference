@@ -48,5 +48,5 @@ A aplicação estará disponível em http://localhost:5000
 ```bash
 sudo docker build -t docker-image-inference .
 sudo docker-compose up
-```
+
 
