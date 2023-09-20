@@ -28,11 +28,11 @@ Recomendo criar um ambiente virtual para isolar as dependências do projeto. Voc
 
 ```bash
 # Crie um ambiente virtual (certifique-se de estar na raiz do projeto)
-python -m venv venv
-
 # Ative o ambiente virtual (dependendo do seu sistema operacional)
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate  # Windows
+python -m venv myenv  # Crie o ambiente virtual com o nome "myenv"
+source myenv/bin/activate  # Ative o ambiente virtual (Linux/macOS)
+myenv\Scripts\activate  # Ative o ambiente virtual (Windows)
+
 
 # Instale as dependências a partir do requirements.txt
 pip install -r requirements-comments.txt
