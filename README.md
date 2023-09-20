@@ -1,6 +1,6 @@
 # EleutherAI-pythia-1b-deduped-inference
-Inferencia em modelo "EleutherAI/pythia-1b-deduped", tradução portgues-ingles, user interface. 
-Link no hugging face: [EleutherAI/pythia-1b-deduped](https://huggingface.co/EleutherAI/pythia-1b-deduped)
+## Inferencia em modelo "EleutherAI/pythia-1b-deduped", tradução portgues-ingles, user interface. 
+## Link no hugging face: [EleutherAI/pythia-1b-deduped](https://huggingface.co/EleutherAI/pythia-1b-deduped)
 
 ## Estrutura do Projeto
 
