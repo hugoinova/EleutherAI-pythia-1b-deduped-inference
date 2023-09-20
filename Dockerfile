@@ -13,6 +13,10 @@ RUN pip install -r requirements.txt
 # Copie os arquivos app.py e model.py para o contêiner
 COPY app.py model.py ./
 
+# Copie a pasta 'static' e 'templates' para o contêiner
+COPY static/ ./static/
+COPY templates/ ./templates/
+
 # Exponha a porta em que o aplicativo Flask será executado
 EXPOSE 5000
 
