@@ -1,0 +1,13 @@
+# Este arquivo contém a lista de dependências para o projeto.
+# As versões específicas das dependências são especificadas no requirements.txt.
+
+# Dependências principais:
+# - Flask: Framework web para criar APIs.
+# - Transformers: Biblioteca da Hugging Face para NLP.
+# - torch: PyTorch, biblioteca de aprendizado de máquina.
+# - Googletrans: Para tradução de texto usando o Google.
+# - python-dotenv: Carrega variáveis de ambiente do arquivo .env.
+# - requests: Para fazer solicitações HTTP.
+# - nltk: Toolkit de processamento de linguagem natural.
+
+# Certifique-se de criar um ambiente virtual antes de instalar essas dependências.
