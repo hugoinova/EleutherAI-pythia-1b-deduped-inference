@@ -48,5 +48,5 @@ A aplicação estará disponível em http://localhost:5000
 ```bash
 sudo docker build -t docker-image-inference .
 sudo docker-compose up
-
-
+# Comando para usar executar uma inferência(fazer uma pergunta e receber uma resposta)
+curl -X POST -F "question=o que é diabetes" http://localhost:5050/ask
